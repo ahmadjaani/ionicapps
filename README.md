@@ -1,1 +1,1 @@
-# ionicapps
+This repo contains ionic apps.
